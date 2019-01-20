@@ -9,3 +9,5 @@ By writing your own code you can print things not possible with regular 3D-print
 Whether you want to create generative 3D-designs, use it as a live 3D-sketching tool or something completely different... is up to you.
 
 Enjoy!
+
+![](https://user-images.githubusercontent.com/156066/51444802-d6a53b80-1cfc-11e9-8a65-77f44da3b255.png)
